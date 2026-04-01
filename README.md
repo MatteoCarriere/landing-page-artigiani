@@ -9,9 +9,8 @@ Design industriale dark, ottimizzato per conversione e contatto diretto via What
 
 ## Screenshot
 
-![Rossi Impianti](screenshot.png)
+<img width="1892" height="1079" alt="image" src="https://github.com/user-attachments/assets/b5856600-ebba-4d35-924a-9e0cc83fd352" />
 
-> Per aggiornare: trascina un'immagine direttamente nell'editor GitHub e sostituisci il percorso sopra.
 
 ## Cosa include
 
