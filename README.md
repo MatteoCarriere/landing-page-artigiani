@@ -5,7 +5,7 @@ Design industriale dark, ottimizzato per conversione e contatto diretto via What
 
 ## Demo
 
-🔗 [matteocarriere.github.io/rossi-impianti](https://matteocarriere.github.io/rossi-impianti/)
+🔗 [matteocarriere.github.io/rossi-impianti](https://matteocarriere.github.io/landing-page-artigiani/)
 
 ## Screenshot
 
