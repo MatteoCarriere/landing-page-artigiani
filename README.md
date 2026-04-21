@@ -1,11 +1,11 @@
-# Rossi Impianti 🔧
+# Rossi Impianti
 
 Landing page per artigiano locale (idraulico / elettricista) — progetto portfolio.  
 Design industriale dark, ottimizzato per conversione e contatto diretto via WhatsApp.
 
 ## Demo
 
-🔗 [matteocarriere.github.io/rossi-impianti](https://matteocarriere.github.io/landing-page-artigiani/)
+[matteocarriere.github.io/rossi-impianti](https://matteocarriere.github.io/landing-page-artigiani/)
 
 ## Screenshot
 
@@ -37,4 +37,4 @@ Adattabile a: idraulici, elettricisti, imbianchini, falegnami, ditte di manutenz
 ## Contatti
 
 Realizzato da **Matteo Carriere**  
-🔗 [github.com/MatteoCarriere](https://github.com/MatteoCarriere)
+[github.com/MatteoCarriere](https://github.com/MatteoCarriere)
